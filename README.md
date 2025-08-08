@@ -1,4 +1,4 @@
-# Adrian (Xing Ji) - Creator & Developer 🧑‍💻
+# Adrian - Creator & Developer 🧑‍💻
 
 Hi, I'm Adrian! 👋 I'm a curious mind 🛠️ passionate about building things and exploring all things tech 💻.
 
