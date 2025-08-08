@@ -1,12 +1,6 @@
-# Adrian - Creator & Developer 🧑‍💻
+# Adrian 🧑‍💻
 
-Hi, I'm Adrian! 
-I'm a curious mind passionate about building things and exploring all things tech 💻.
-
-
-## About Me ℹ️
-
-I'm a data consultant who loves bringing ideas to life through code 🧑‍💻.
+Hi, I'm Adrian! I'm a data consultant who loves bringing my ideas to life through code 🧑‍💻.
 
 ## Side Projects 💼
 
