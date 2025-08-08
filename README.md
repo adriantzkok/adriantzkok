@@ -1,12 +1,12 @@
 # Adrian - Creator & Developer 🧑‍💻
 
-Hi, I'm Adrian! 👋 
+Hi, I'm Adrian! 
 I'm a curious mind passionate about building things and exploring all things tech 💻.
 
 
 ## About Me ℹ️
 
-I'm a data consultant 💻 who loves bringing ideas to life through code 🧑‍💻.
+I'm a data consultant who loves bringing ideas to life through code 🧑‍💻.
 
 ## Side Projects 💼
 
@@ -38,10 +38,9 @@ I'm a data consultant 💻 who loves bringing ideas to life through code 🧑‍
 
 ## Interests 🎯
 
-*   **Modern Web Development:** Exploring modern frameworks, state management, and best practices for building scalable and maintainable applications. 🧱
-*   **Travel:** Passionate about discovering new places, cultures, and hidden gems, which I share on my travel website. 🗺️
-*   **Technology:** Keeping up with advancements in web technologies, AI, and software development practices. 🤖
-*   **User Experience:** Designing simple, intuitive, and genuine experiences for users, inspired by the principle of "Simple. Local. Genuine Travel." ✨
+*   **Travel:** Passionate about discovering new places, cultures, and hidden gems, which I share on my travel website. 🗺
+*   **Technology:** Keeping up with advancements in technologies, AI, and software development practices. 
+*   **Running:** Looking to improve my 10K PB of 36min.
 
 
 
