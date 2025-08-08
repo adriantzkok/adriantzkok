@@ -7,7 +7,6 @@ I'm a curious mind passionate about building things and exploring all things tec
 ## About Me ℹ️
 
 I'm a data consultant 💻 who loves bringing ideas to life through code 🧑‍💻.
-My projects, like my travel site [Xing Ji Travel](https://www.xingjitravel.com/), reflect my interests in clean design 🎨, genuine user experiences 🤝, and exploring new technologies 🔬. I enjoy building applications that are not only functional ⚙️ but also simple 🧘‍♂️ and enjoyable to use 😊. When I'm not coding, you can find me discovering new potential travel destinations or learning new languages.
 
 ## Side Projects 💼
 
